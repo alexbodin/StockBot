@@ -1,0 +1,13 @@
+{
+	"name":"Konto",
+	"cash":0,
+	"localcurrency":"SEK",
+	"deposits":0,
+	"withdrawals":0,
+	"depositHistory":[
+		
+	],
+	"stocks":{
+		
+	}
+}
